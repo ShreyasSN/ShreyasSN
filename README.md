@@ -1,5 +1,3 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e52f9164362561.5acf88a0e315b.gif)](cool)
-
 <h1 align="center">Hi 👋, I'm Shreyas S N</h1>
 <h3 align="center">An enthusiastic full-stack developer driven by a passion for machine learning and deep learning, finding immense satisfaction in coding.</h3>
 
