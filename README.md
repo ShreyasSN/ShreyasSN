@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm enthusiastic full-stack developer driven by a passion for machine learning and deep learning, finding immense satisfaction in coding.<br><br><br>🔭 I’m currently working on Web 3.0 Blockchain App<br><br>🌱 I’m currently learning MERN
+<h3 align='center'> I'm enthusiastic full-stack developer driven by a passion for machine learning and deep learning, finding immense satisfaction in coding<h3/>.<br><br><br>🔭 I’m currently working on Web 3.0 Blockchain App<br><br>🌱 I’m currently learning MERN
 
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shreyassn&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_s_n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn) 
@@ -14,9 +16,6 @@ I'm enthusiastic full-stack developer driven by a passion for machine learning a
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreyassn&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
