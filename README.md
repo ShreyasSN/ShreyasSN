@@ -15,6 +15,12 @@ I'm enthusiastic full-stack developer driven by a passion for machine learning a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shreyassn&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyassn&icon=0&color=1)](https://visitcount.itsvg.in)
 
