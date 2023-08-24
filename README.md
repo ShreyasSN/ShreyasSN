@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂 Random-Gen Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 100px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyassn&icon=0&color=1)](https://visitcount.itsvg.in)
