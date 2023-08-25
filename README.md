@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/ShreyasSN/ShreyasSN/blob/main/MasterHead.png))](CoverPic)
+[![MasterHead](https://i.ibb.co/wsGXgqN/Master-Head.png)](Cover Picture)
 # 💫 About Me:
 <h3 > I'm enthusiastic full-stack developer driven by a passion for machine learning and deep learning, finding immense satisfaction in coding<h3/><br><br>🔭 I’m currently working on Web 3.0 Blockchain App<br><br>🌱 I’m currently learning MERN
 
