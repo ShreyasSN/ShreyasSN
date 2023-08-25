@@ -19,7 +19,7 @@
  <div align="center">
         <h2>Programming Languages</h2>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=angular,c,cpp,js,css,django,py" />
+            <img src="https://skillicons.dev/icons?i=c,cpp,js,css,django,py" />
         </a>
         <h2>Development Tools</h2>
         <a href="https://skillicons.dev">
