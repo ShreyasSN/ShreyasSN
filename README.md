@@ -1,4 +1,4 @@
-[![Black-and-Red-Gradient-Professional-Linked-In-Banner.gif](https://i.postimg.cc/13M64FvR/Black-and-Red-Gradient-Professional-Linked-In-Banner.gif)](https://postimg.cc/mPzh5PxK)
+[![Cover-Picture-4.gif](https://i.postimg.cc/bvbfs3nB/Cover-Picture-4.gif)](https://postimg.cc/WD2HymXG)
 # 💫 About Me:
 <h3 > I'm enthusiastic full-stack developer driven by a passion for machine learning and deep learning, finding immense satisfaction in coding<h3/><br><br>🔭 I’m currently working on Web 3.0 Blockchain App<br><br>🌱 I’m currently learning MERN
 
