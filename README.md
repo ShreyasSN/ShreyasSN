@@ -1,4 +1,4 @@
-[![Cover-Picture-4.gif](https://i.postimg.cc/bvbfs3nB/Cover-Picture-4.gif)](https://postimg.cc/WD2HymXG)
+[![Final-Cover-Picture.gif](https://i.postimg.cc/26Dy6q1n/Final-Cover-Picture.gif)](https://postimg.cc/Z9w4s5Fq)
 # 💫 About Me:
 <h3 > I'm enthusiastic full-stack developer driven by a passion for machine learning and deep learning, finding immense satisfaction in coding<h3/><br><br>🔭 I’m currently working on Web 3.0 Blockchain App<br><br>🌱 I’m currently learning MERN
 
