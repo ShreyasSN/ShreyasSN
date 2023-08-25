@@ -1,4 +1,4 @@
-https://getwallpapers.com/wallpaper/full/e/0/a/15276.jpg
+[![Final-Cover-Picture.png](https://i.postimg.cc/Rq5JcPFb/Final-Cover-Picture.png)](https://postimg.cc/0KnNv07p)
 # 💫 About Me:
 <h3 > I'm enthusiastic full-stack developer driven by a passion for machine learning and deep learning, finding immense satisfaction in coding<h3/><br><br>🔭 I’m currently working on Web 3.0 Blockchain App<br><br>🌱 I’m currently learning MERN
 
