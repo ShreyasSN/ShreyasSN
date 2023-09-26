@@ -1,16 +1,17 @@
 [![Final-Cover-Picture.png](https://i.postimg.cc/Rq5JcPFb/Final-Cover-Picture.png)](CoverPage_Shreyas)
+
 # 💫 About Me:
+
 <div align="center">
     <h3>I'm an enthusiastic full-stack developer driven by a passion for machine learning and deep learning. I find immense satisfaction in coding.</h3>
-    
 </div>
+
 <div>
     <h3>
         🔭 I’m currently working on a Web 3.0 Blockchain App.<br>
         🌱 I’m currently learning the MERN stack.
     </h3>
 </div>
-</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_s_n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn) 
