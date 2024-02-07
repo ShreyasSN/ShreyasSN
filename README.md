@@ -3,14 +3,7 @@
 # 💫 About Me:
 
 <div align="center">
-    <h3>I'm an enthusiastic full-stack developer driven by a passion for machine learning and deep learning. I find immense satisfaction in coding.</h3>
-</div>
-
-<div>
-    <h3>
-        🔭 I’m currently working on a Web 3.0 Blockchain App.<br>
-        🌱 I’m currently learning the MERN stack.
-    </h3>
+    <h3>Proficient in Python, C/C++, and currently expanding skills in Java. Accomplished numerous programming challenges encompassing MySQL and Data Structures & Algorithms. Additionally, I've honed web development skills in HTML, CSS, JavaScript, and React. Developed adeptness in database management, particularly skilled in MySQL with hands-on project experience. Knowledgeable in Power BI for data visualization, with practical experience creating impactful visual representations. Possess a solid foundation in machine learning, data mining, and computer vision.</h3>
 </div>
 
 ## 🌐 Socials:
