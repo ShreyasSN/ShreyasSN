@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-<div align="center">
-    <h3>Proficient in Python, C/C++, and currently expanding skills in Java. Accomplished numerous programming challenges encompassing MySQL and Data Structures & Algorithms. Additionally, I've honed web development skills in HTML, CSS, JavaScript, and React. Developed adeptness in database management, particularly skilled in MySQL with hands-on project experience. Knowledgeable in Power BI for data visualization, with practical experience creating impactful visual representations. Possess a solid foundation in machine learning, data mining, and computer vision.</h3>
+<div align="left">
+    <p>Proficient in Python, C/C++, and currently expanding skills in Java. Accomplished numerous programming challenges encompassing MySQL and Data Structures & Algorithms. Additionally, I've honed web development skills in HTML, CSS, JavaScript, and React. Developed adeptness in database management, particularly skilled in MySQL with hands-on project experience. Knowledgeable in Power BI for data visualization, with practical experience creating impactful visual representations. Possess a solid foundation in machine learning, data mining, and computer vision.</p>
 </div>
 
 ## 🌐 Socials:
