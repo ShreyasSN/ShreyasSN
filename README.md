@@ -10,9 +10,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_s_n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shreyassnhere) 
 </br>
 
+## Tech Stack:
 <div align="center">
     <ul>
-        <li><h3>Programming Languages</h3></li>
+        <h3>Programming Languages</h3>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
