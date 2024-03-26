@@ -1,4 +1,4 @@
-[![shreyas-s-n.png](https://i.postimg.cc/pX5npkSP/shreyas-s-n.png)](CoverPage_Shreyas)
+[![shreyas-s-n.png](https://i.postimg.cc/cHWpPsKr/shreyas-s-n.png)](CoverPage_Shreyas)
 
 # 💫 About Me:
 
