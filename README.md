@@ -2,12 +2,13 @@
 
 
 
-## Hi, I'm Shreyas: 
-<div align="left"><p>Skilled in Python, C/C++,  currently expanding Java proficiency. Excelled in programming challenges, Data Structures & Algorithms. Proficient in MySQL, adept in database management. Experienced in web dev: HTML, CSS, JavaScript, React. Solid foundation in machine learning, data mining, computer vision.</p>
+## Hi, I'm Shreyas
+<div align="left"><p>Skilled in Python, C/C++, and currently expanding skills in java. Excelled in programming challenges, Data Structures & Algorithms. Proficient in MySQL, adept in database management. Experienced in web dev: HTML, CSS, JavaScript, React. Solid foundation in machine learning, data mining, computer vision.</p>
 </div>
 
-## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_s_n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shreyassnhere) 
+
+<hr>
 </br>
 
 ## Tech Stack:
