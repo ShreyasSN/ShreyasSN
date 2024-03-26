@@ -76,8 +76,9 @@
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<hr/>
 
+<hr/>
+![Snake animation](https://raw.githubusercontent.com/ShreyasSN/ShreyasSN/output/github-contribution-grid-snake-dark.svg)
 ![Snake animation](https://raw.githubusercontent.com/shreyassn/shreyassn/output/github-contribution-grid-snake-dark.svg)
 
 ---
