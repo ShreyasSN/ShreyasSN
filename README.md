@@ -69,12 +69,13 @@
 
 ##  GitHub Stats:
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=shreyassn&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shreyassn&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyassn&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyassn&theme=onedark" />
 </div>
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr/>
 
 ![Snake animation](https://raw.githubusercontent.com/shreyassn/shreyassn/output/github-contribution-grid-snake-dark.svg)
