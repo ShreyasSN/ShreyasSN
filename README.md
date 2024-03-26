@@ -2,7 +2,7 @@
 
 
 
-## About Me: 
+## Hi, I'm Shreyas: 
 <div align="left"><p>Skilled in Python, C/C++,  currently expanding Java proficiency. Excelled in programming challenges, Data Structures & Algorithms. Proficient in MySQL, adept in database management. Experienced in web dev: HTML, CSS, JavaScript, React. Solid foundation in machine learning, data mining, computer vision.</p>
 </div>
 
@@ -78,8 +78,8 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr/>
+
 ![Snake animation](https://raw.githubusercontent.com/ShreyasSN/ShreyasSN/output/github-contribution-grid-snake-dark.svg)
-![Snake animation](https://raw.githubusercontent.com/shreyassn/shreyassn/output/github-contribution-grid-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyassn&icon=7&color=1)](https://visitcount.itsvg.in)
