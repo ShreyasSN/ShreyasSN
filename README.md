@@ -68,22 +68,16 @@
 
 
 ##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyassn&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
----
 
 <hr/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=username=shreyassn&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/shreyassn/shreyassn/output/github-contribution-grid-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyassn&icon=7&color=1)](https://visitcount.itsvg.in)
