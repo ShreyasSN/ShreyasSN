@@ -5,7 +5,7 @@
 ## Hi, I'm Shreyas
 <div align="left">
     <ul>
-        <li>Skilled in Python, C/C++, and currently expanding skills in java.
+        <li>Skilled in Python, C/C++, java.
         </li>
         <li>
             Excelled in programming challenges, Data Structures & Algorithms.
@@ -14,7 +14,7 @@
             Proficient in MySQL, adept in database management.
         </li>
         <li>
-            Experienced in web dev: HTML, CSS, JavaScript, React.
+            Experienced in front-end dev: HTML, CSS, JavaScript, React.
         </li>
         <li>
             Solid foundation in machine learning, data mining and computer vision.</p>
