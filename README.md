@@ -27,6 +27,8 @@
 
 <hr>
 
+[![An image of @shreyassn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyassn)](https://holopin.io/@shreyassn)
+
 ## Tech Stack:
 <div align="center">
     <ul>
