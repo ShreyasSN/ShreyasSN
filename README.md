@@ -1,5 +1,6 @@
-[![shreyas-s-n.png](https://i.postimg.cc/cHWpPsKr/shreyas-s-n.png)](CoverPage_Shreyas)
 
+
+[![An image of @shreyassn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyassn)](https://holopin.io/@shreyassn)
 
 
 ## Hi, I'm Shreyas
@@ -26,8 +27,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_s_n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shreyassnhere) 
 
 <hr>
+<!-- [![shreyas-s-n.png](https://i.postimg.cc/cHWpPsKr/shreyas-s-n.png)](CoverPage_Shreyas) -->
 
-[![An image of @shreyassn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyassn)](https://holopin.io/@shreyassn)
+
+
 
 ## Tech Stack:
 <div align="center">
