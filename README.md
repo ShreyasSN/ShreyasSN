@@ -4,27 +4,35 @@
 
 
 ## Hi, I'm Shreyas
-<div align="left">
-    <ul>
-        <li>Skilled in Python, C/C++, java.
-        </li>
-        <li>
-            Excelled in programming challenges, Data Structures & Algorithms.
-        </li>
-        <li>
-            Proficient in MySQL, adept in database management.
-        </li>
-        <li>
-            Experienced in front-end dev: HTML, CSS, JavaScript, React.
-        </li>
-        <li>
-            Solid foundation in machine learning, data mining and computer vision.</p>
-        </li>
-    </ul>
-  
-</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_s_n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shreyassnhere) 
+<table>
+<tr>
+<td>
+
+- Graduated with a B.Tech in Computer Science and Engineering from NIT Calicut in 2024.  
+- Proficient in multiple programming languages, including Python, C, C++, Java, JavaScript, SQL, PHP, and Assembly.  
+- Experienced in modern web development technologies, with expertise in frameworks and tools such as ReactJS, NodeJS, NextJS, TypeScript, MongoDB, MySQL, TailwindCSS, and ExpressJS.  
+- Skilled in data science and machine learning, specializing in deep learning, natural language processing, and computer vision, with hands-on experience in TensorFlow, PyTorch, Scikit-Learn, and MLOps.  
+- Adept at using development tools and platforms like Linux, Git, Docker, Bash/Shell scripting, and VS Code.
+- 1012 rating on Codeforces and 1627 rating on LeetCode.  
+- Contributor title holder on Kaggle.  
+- Cleared JEE Mains 2020, outperforming 1M+ candidates.  
+- 5-star SQL rating on HackerRank.  
+- **Open Source Contributions:** Integrated pull requests in GSSOC-Ext and Hacktoberfest’24.  
+- **GitHub Activity:** 373 contributions in 2023 and 228+ contributions in 2024.  
+-  Data-driven solutions, innovative problem-solving, and full-stack development.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://i.postimg.cc/Qxxj0W1g/Shreyas-S-N-Badge-Contributor-GSSo-C2024-Extd.png" alt="GSSOC - 2024" height="400">
+</p>
+
+
+
+
 
 <hr>
 <!-- [![shreyas-s-n.png](https://i.postimg.cc/cHWpPsKr/shreyas-s-n.png)](CoverPage_Shreyas) -->
