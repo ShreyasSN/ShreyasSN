@@ -16,7 +16,6 @@
 - Adept at using development tools and platforms like Linux, Git, Docker, Bash/Shell scripting, and VS Code.
 - 1012 rating on Codeforces and 1627 rating on LeetCode.  
 - Contributor title holder on Kaggle.  
-- Cleared JEE Mains 2020, outperforming 1M+ candidates.  
 - 5-star SQL rating on HackerRank.  
 - **Open Source Contributions:** Integrated pull requests in GSSOC-Ext and Hacktoberfest’24.  
 - **GitHub Activity:** 373 contributions in 2023 and 228+ contributions in 2024.  
@@ -26,17 +25,54 @@
 </tr>
 </table>
 
-<p align="center">
+ <p align="center">
   <img src="https://i.postimg.cc/Qxxj0W1g/Shreyas-S-N-Badge-Contributor-GSSo-C2024-Extd.png" alt="GSSOC - 2024" height="400">
-</p>
+</p> 
 
 
 
+<!-- <a href="https://www.linkedin.com/in/shreyassn/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+</a>-->
 
 
 <hr>
 <!-- [![shreyas-s-n.png](https://i.postimg.cc/cHWpPsKr/shreyas-s-n.png)](CoverPage_Shreyas) -->
 
+## Learning Repository Tracker
+<table>
+  <thead>
+    <tr>
+      <th>S.No.</th>
+      <th>Repository Name</th>
+      <th>Key Topics to Explore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://github.com/ShreyasSN/My-Daily-Progress-in-Full-Stack-Development">My-Daily-Progress-in-Full-Stack-Development</a></td>
+      <td>MERN Stack (MongoDB, Express.js, React, Node.js), Next.js and Server-Side Rendering (SSR), GraphQL, RESTful APIs, WebSockets and Real-time Communication, Authentication & Authorization (OAuth, JWT, Passport.js), Microservices Architecture, Docker and Containerization, CI/CD Pipelines, Progressive Web Apps (PWAs), Testing (Jest, Mocha, Cypress), TypeScript in Full Stack Development, State Management (Redux, Context API), Web Security (CORS, CSRF, XSS, SQL Injection Prevention), Cloud Deployment (AWS, Azure, Google Cloud), Serverless Architecture, SEO Optimization for React Apps, Responsive Design with CSS Grid/Flexbox, Unit and Integration Testing, DevOps for Full-Stack, Performance Optimization (Lazy Loading, Code Splitting)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://github.com/ShreyasSN/My-Daily-Progress-in-Artificial-Intelligence">My-Daily-Progress-in-Artificial-Intelligence</a></td>
+      <td>Supervised/Unsupervised Learning, Model Evaluation, Deep Learning (CNNs, RNNs, GANs), Reinforcement Learning, Natural Language Processing (Transformers, BERT, GPT), Transfer Learning, AI Ethics and Fairness, Explainable AI (XAI), Neural Architecture Search, Generative Models, Meta-Learning, Autonomous Systems, Multi-Agent Systems, AI in Computer Vision, Time Series Forecasting with AI, Hyperparameter Optimization, AI for Edge Computing.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://github.com/ShreyasSN/LeetCode-GeeksforGeeks">LeetCode-GeeksforGeeks</a></td>
+      <td>Data Structures and Algorithms Practice Session</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://github.com/ShreyasSN/Object-Oriented-Programming-Java">Object-Oriented-Programming-Java</a></td>
+      <td>Inheritance, Polymorphism, Abstraction, Encapsulation, Design Patterns (Factory, Singleton, Observer, Strategy), SOLID Principles, Object Composition, Class Loading, Interfaces vs Abstract Classes, Java Reflection, Generics in OOP, Object Cloning, Method Overloading and Overriding, Dependency Injection, Exception Handling, Java Collections Framework, Lambda Expressions, Nested and Inner Classes, Anonymous Classes, Composition vs Inheritance, OOP Principles in Concurrency, Serialization and Deserialization, Builder Pattern</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 
 
@@ -195,9 +231,8 @@
 
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<hr/>
 
-![Snake animation](https://raw.githubusercontent.com/ShreyasSN/ShreyasSN/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/ShreyasSN/ShreyasSN/output/github-contribution-grid-snake-dark.svg) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyassn&icon=7&color=1)](https://visitcount.itsvg.in)
