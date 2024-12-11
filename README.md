@@ -221,11 +221,8 @@
 ##  GitHub Stats:
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=shreyassn&show_icons=true&theme=dark&hide_border=true">
-  <img width="12" />
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shreyassn&layout=compact&theme=dark&hide_border=true" />
-  <img width="12" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyassn&theme=github&hide_border=true">
-  <img width="12"/> 
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyassn&theme=onedark&hide_border=true" />
 </div>
 
