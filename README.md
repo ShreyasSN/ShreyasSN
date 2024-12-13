@@ -166,6 +166,27 @@
 </div>
 <hr>
 
+## Current Project on Progress
+  <table>
+      <thead>
+          <tr>
+              <th>No.</th>
+              <th>Project Name</th>
+              <th>Objective</th>
+              <th>Tech Stack</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>1</td>
+              <td><a href="https://github.com/shreyasSN/ePatientQueue/" target="_blank">ePatientQueue</a></td>
+              <td>Doctor appointment management and real-time appointment tracking system</td>
+              <td>ReactJS, TailwindCSS, ExpressJS, NodeJS, MongoDB</td>
+          </tr>
+      </tbody>
+  </table>
+
+<hr>
 <div>
   <img width="380px" src="https://github-readme-stats.vercel.app/api?username=shreyassn&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
   <img width="330px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shreyassn&layout=compact&theme=dark&hide_border=true" />
