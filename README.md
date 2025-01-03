@@ -29,8 +29,9 @@
 <hr>
 <!-- [![shreyas-s-n.png](https://i.postimg.cc/cHWpPsKr/shreyas-s-n.png)](CoverPage_Shreyas) -->
 
+<!--
 ## Learning Repository Tracker
-
+<!--
 <table>
   <thead>
     <tr>
@@ -61,9 +62,8 @@
       <td>Inheritance, Polymorphism, Abstraction, Encapsulation, Design Patterns (Factory, Singleton, Observer, Strategy), SOLID Principles, Object Composition, Class Loading, Interfaces vs Abstract Classes, Java Reflection, Generics in OOP, Object Cloning, Method Overloading and Overriding, Dependency Injection, Exception Handling, Java Collections Framework, Lambda Expressions, Nested and Inner Classes, Anonymous Classes, Composition vs Inheritance, OOP Principles in Concurrency, Serialization and Deserialization, Builder Pattern</td>
     </tr>
   </tbody>
-</table>
+</table>  -->
 
----
 
 ## Tech Stack:
 
