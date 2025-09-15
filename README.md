@@ -6,18 +6,12 @@
 <tr>
 <td>
 
-- Graduated with a B.Tech in Computer Science and Engineering from NIT Calicut in 2024.
-- Proficient in multiple programming languages, including Python, C, C++, Java, JavaScript, SQL, PHP, and Assembly.
-- Experienced in modern web development technologies, with expertise in frameworks and tools such as ReactJS, NodeJS, NextJS, TypeScript, MongoDB, MySQL, TailwindCSS, and ExpressJS.
-- Skilled in data science and machine learning, specializing in deep learning, natural language processing, and computer vision, with hands-on experience in TensorFlow, PyTorch, Scikit-Learn, and MLOps.
-- Adept at using development tools and platforms like Linux, Git, Docker, Bash/Shell scripting, and VS Code.
-- 1012 rating on Codeforces and 1627 rating on LeetCode.
-- Contributor title holder on Kaggle.
-- 5-star SQL rating on HackerRank.
-- **Open Source Contributions:** Integrated pull requests in GSSOC-Ext and Hacktoberfest’24.
-- **GitHub Activity:** 373 contributions in 2023 and 228+ contributions in 2024.
-- Data-driven solutions, innovative problem-solving, and full-stack development.
-
+I completed my B.Tech in Computer Science and Engineering from NIT Calicut. 
+I enjoy solving algorithmic problems, love coding, and often take part in competitive programming contests.
+I build software, especially full-stack applications, and I've spent time working with deep learning and cloud infrastructure. I've worked on projects like facial recognition in crowds, optimizing deep learning models in virtual environments, and building a microservices-based management system. 
+<br>
+<br>
+I'm proficient in Python, C++, Java, SQL, JavaScript, TensorFlow, PyTorch, OpenCV, Docker. I focus on building production-ready, scalable applications and hyperparameter tuning for ML models. I'm driven to solve real-world problems with technology, deploying solutions that work on other machines too. I'm comfortable with containerization and orchestration (Docker/Kubernetes), prioritize clean code and efficient algorithms, and optimize for performance through continuous refactoring. I'm experienced in data pipelines and model deployment. I strive for reproducible results and would like to take on challenges.
 </td>
 </tr>
 </table>
@@ -26,7 +20,7 @@
   <img src="https://i.postimg.cc/Qxxj0W1g/Shreyas-S-N-Badge-Contributor-GSSo-C2024-Extd.png" alt="GSSOC - 2024" height="400">
 </p> 
 
-<hr>
+
 <!-- [![shreyas-s-n.png](https://i.postimg.cc/cHWpPsKr/shreyas-s-n.png)](CoverPage_Shreyas) -->
 
 <!--
@@ -67,133 +61,122 @@
 
 ## Tech Stack:
 
-<div align="center">
-    <ul>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="50" alt="d3js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="50" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="50" alt="spring logo"  />
-</div>
- </ul>
-</div>
-<hr>
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Project Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50" alt="pytorch logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/spring/6DB33F" height="50" alt="spring logo" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Dev Tools</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Web Tools</b></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+        <img width="12" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Current Project on Progress
-  <table>
-      <thead>
-          <tr>
-              <th>No.</th>
-              <th>Project Name</th>
-              <th>Objective</th>
-              <th>Tech Stack</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-              <td>1</td>
-              <td><a href="https://github.com/shreyasSN/ePatientQueue/" target="_blank">ePatientQueue</a></td>
-              <td>Doctor appointment management and real-time appointment tracking system</td>
-              <td>ReactJS, TailwindCSS, ExpressJS, NodeJS, MongoDB</td>
-          </tr>
-      </tbody>
-  </table>
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Project Name</th>
+      <th>Objective</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://github.com/shreyasSN/ePatientQueue/" target="_blank">ePatientQueue</a></td>
+      <td>Doctor appointment management and real-time appointment tracking system</td>
+      <td>ReactJS, TailwindCSS, ExpressJS, NodeJS, MongoDB</td>
+    </tr>
+  </tbody>
+</table>
 
-<hr>
-<div>
+
+<!-- <div>
   <img width="380px" src="https://github-readme-stats.vercel.app/api?username=shreyassn&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
   <img width="330px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shreyassn&layout=compact&theme=dark&hide_border=true" />
-<!--    <img width="380px" src="https://github-contributor-stats.vercel.app/api?username=shreyassn&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/> -->
+   <img width="380px" src="https://github-contributor-stats.vercel.app/api?username=shreyassn&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/>
   <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyassn&theme=dark&hide_border=true"/>
   <img width="430px" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyassn&theme=github&hide_border=true">
-</div>
+</div> -->
 
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=shreyassn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
