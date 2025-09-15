@@ -72,7 +72,7 @@ I'm proficient in Python, C++, Java, SQL, JavaScript, TensorFlow, PyTorch, OpenC
     </tr>
     <tr>
       <td><b>Languages</b></td>
-      <td nowrap>
+      <td>
         <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
@@ -90,7 +90,7 @@ I'm proficient in Python, C++, Java, SQL, JavaScript, TensorFlow, PyTorch, OpenC
     </tr>
     <tr>
       <td><b>Frameworks</b></td>
-      <td nowrap>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
         <img width="12" />
         <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50" alt="pytorch logo" />
@@ -106,7 +106,7 @@ I'm proficient in Python, C++, Java, SQL, JavaScript, TensorFlow, PyTorch, OpenC
     </tr>
     <tr>
       <td><b>Dev Tools</b></td>
-      <td nowrap>
+      <td>
         <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
@@ -122,7 +122,7 @@ I'm proficient in Python, C++, Java, SQL, JavaScript, TensorFlow, PyTorch, OpenC
     </tr>
     <tr>
       <td><b>Web Tools</b></td>
-      <td nowrap>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
