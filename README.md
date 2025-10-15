@@ -6,7 +6,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/shreyas_s_n)
 [![CodeChef](https://img.shields.io/badge/CodeChef-@3Star-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/shreyas_s_n)
 [![Codeforces](https://img.shields.io/badge/Codeforces-@specialist-red?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shreyassn)
-[![Blogs](https://img.shields.io/badge/Blogs-@Tech&Algo-FF4088?logo=sat1&logoColor=white)](https://shreyassn.github.io/blogs/)
+<!-- [![Blogs](https://img.shields.io/badge/Blogs-@Tech&Algo-FF4088?logo=sat1&logoColor=white)](https://) -->
 
 ## Hi, I'm Shreyas S N [![LinkedIn](https://img.shields.io/badge/LinkedIn-@shreyassn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn)
 
