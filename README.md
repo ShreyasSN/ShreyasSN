@@ -1,6 +1,14 @@
 [![An image of @shreyassn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyassn)](https://holopin.io/@shreyassn)
 
-## Hi, I'm Shreyas S N [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn) 
+> [!NOTE]
+> - Open for oppurtunities in Software/Data Science field of Engineering/Development Roles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-700Q+-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/shreyassn)
+[![CodeChef](https://img.shields.io/badge/CodeChef-@3Star-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/shreyas_s_n)
+[![Codeforces](https://img.shields.io/badge/Codeforces-@specialist-red?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shreyassn)
+[![Blogs](https://img.shields.io/badge/Blogs-@Tech&Algo-FF4088?logo=sat1&logoColor=white)](https://shreyassn.github.io/blogs/)
+
+## Hi, I'm Shreyas S N [![LinkedIn](https://img.shields.io/badge/LinkedIn-@shreyassn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyassn)
 
 <table>
 <tr>
